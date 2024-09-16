@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hello there<br>👯 I’m looking to collaborate on spring projects<br>🔭 I’m currently working on social media app<br>🌱 I’m currently learning spring microservices<br> 😄 Pronouns: russian, kazakh⚡ Fun fact, my first coding language was pascal
+👋 Hello there<br>👯 I’m looking to collaborate on spring projects<br>🔭 I’m currently working on social media app<br>🌱 I’m currently learning spring microservices<br> 😄 Pronouns: russian, kazakh<br>⚡ Fun fact, my first coding language was pascal
 
 
 ## 🌐 Socials:
