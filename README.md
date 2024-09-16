@@ -2,7 +2,7 @@
 # 💫 About Me:
 ###
   <img height="150" align="right" src="https://steamuserimages-a.akamaihd.net/ugc/999143472998055302/8C0374F8ED0ADF6BFA3ACDEAC01346FB731BD137/?imw=512&imh=288&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
-###
+
   <div align="left">
     👋 Hello there<br>
     👯 I’m looking to collaborate on spring projects<br>
