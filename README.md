@@ -1,5 +1,8 @@
 
 # 💫 About Me:
+###
+  <img height="150" align="right" src="https://steamuserimages-a.akamaihd.net/ugc/999143472998055302/8C0374F8ED0ADF6BFA3ACDEAC01346FB731BD137/?imw=512&imh=288&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
+###
   <div align="left">
     👋 Hello there<br>
     👯 I’m looking to collaborate on spring projects<br>
@@ -7,13 +10,12 @@
     🌱 I’m currently learning spring microservices<br> 
     😄 Pronouns: russian, kazakh<br>
     ⚡ Fun fact, my first coding language was pascal</div>
-  <img height="150" align="right" src="https://steamuserimages-a.akamaihd.net/ugc/999143472998055302/8C0374F8ED0ADF6BFA3ACDEAC01346FB731BD137/?imw=512&imh=288&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"/>
-
+###
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/quhanchik/) 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/Quhanchik)
-
+###
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
