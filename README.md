@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 ###
-  <img height="150" align="right" src="https://steamuserimages-a.akamaihd.net/ugc/2024975901088696442/FFA025AFE6294D06D431FFE33B3FAAEF91978A3D/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"/>
+  <img height="150" align="right" src="https://steamuserimages-a.akamaihd.net/ugc/1878591893801495068/31014E62EBE8D7F8A69BBF08C17ABE4B41EC5883/?imw=512&amp;imh=285&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"/>
 
   <div align="left">
     👋 Hello there<br>
