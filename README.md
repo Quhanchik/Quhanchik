@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 ###
-  <img height="150" align="right" src="https://avatars.mds.yandex.net/i?id=2a0000017a19886056ddfe1de54633ac0b3d-4341598-images-thumbs&n=13"/>
+  <img height="150" align="right" src="https://steamuserimages-a.akamaihd.net/ugc/2024975901088696442/FFA025AFE6294D06D431FFE33B3FAAEF91978A3D/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"/>
 
   <div align="left">
     👋 Hello there<br>
